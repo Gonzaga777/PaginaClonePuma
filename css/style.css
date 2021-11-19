@@ -1,0 +1,117 @@
+header { 
+    width: 100%;
+    display: block;
+    position: fixed;
+}
+.container {
+    height: 400px;
+    width: 91.66666667%;
+    margin-top: 60px;
+}
+.pumaPromocoes  {
+    text-align: center;
+    background-color: rgb(174, 148, 109);
+    height: 100%;
+    color: white; 
+}
+.imagemFundo {
+    display: inline-block;
+    width: 100%;
+    height: 400px;
+}
+.dropdown-item a {
+    color: white;
+
+}
+h2 {
+    display: inline-flex;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 140px;
+    color: aliceblue;
+    font-family: auto;
+    font-size: -webkit-xxx-large;
+}
+.ConteinerNeymar d-flex{
+    width: auto ;
+    margin-top: 10px;
+    height:10px;
+}
+.btnComprar{
+    position: absolute;
+    border: 2px solid;
+    background-color:white;
+    margin-left: 268px;
+    position: absolute;
+    margin-top: 217px;
+    padding: 14px;
+    color: black;
+    text-decoration: none;
+}
+h3 {
+    display: inline-flex;
+    position: absolute;
+    margin-left: 140px;
+    color: aliceblue;
+    font-family: auto;
+    margin-top: 162px;
+    font-size: 25px;
+}
+.carousel-control-prev {
+    color: black;
+}
+
+.pumaRegras {
+    background-color: rgb(174, 148, 109);
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+.espaçoTexto {
+    background-color: rgb(174, 148, 109);
+
+}
+.nav-link {
+    color: white;
+}
+.nav-item dropdown {
+    overflow: hidden;
+    height: 400px;
+    position: relative;
+    flex: 1;
+}
+
+.carousel-item img {
+     display:flex;
+    flex: 1;;
+}
+footer {
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+
+a {
+    color: white;
+}
+.img-logo2 {
+    margin-left: 36px;
+    margin-top: 54px;
+}
+i {
+    color: white;
+    margin-left: 1406px;
+
+}
+.form-select {
+    margin-top: 272px;
+    width: 10%;
+    margin-left: 10px;
+}
+.imgCartao {
+    margin-left: 1371px;
+}
+b {
+    text-align: left;
+    color: white;
+}
